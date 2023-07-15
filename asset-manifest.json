@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Sergey-portfolio-react/static/css/main.e75c538c.css",
+    "main.js": "/Sergey-portfolio-react/static/js/main.0c3ea060.js",
+    "static/js/787.8b11e2ca.chunk.js": "/Sergey-portfolio-react/static/js/787.8b11e2ca.chunk.js",
+    "static/media/cv.pdf": "/Sergey-portfolio-react/static/media/cv.ace5b81d8d155608d88d.pdf",
+    "static/media/02-big.jpg": "/Sergey-portfolio-react/static/media/02-big.2c9a1243189122c1cde4.jpg",
+    "static/media/ReactBig.jpg": "/Sergey-portfolio-react/static/media/ReactBig.6dbb229fde58d7b36c30.jpg",
+    "static/media/01-big.jpg": "/Sergey-portfolio-react/static/media/01-big.0c5c60a13b1afd94b324.jpg",
+    "static/media/03-big.jpg": "/Sergey-portfolio-react/static/media/03-big.c42f4088741fbc14aff4.jpg",
+    "static/media/array.jpg": "/Sergey-portfolio-react/static/media/array.bb3ceba31ecdb2bfd2ce.jpg",
+    "static/media/Node.jpg": "/Sergey-portfolio-react/static/media/Node.c16113a3df3dc3ac966a.jpg",
+    "static/media/02.jpg": "/Sergey-portfolio-react/static/media/02.f31eb02950b391a657e3.jpg",
+    "static/media/01.jpg": "/Sergey-portfolio-react/static/media/01.99fd340010dc1d709880.jpg",
+    "static/media/03.jpg": "/Sergey-portfolio-react/static/media/03.54d83bdd37b45388e5b8.jpg",
+    "static/media/header-bg.png": "/Sergey-portfolio-react/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/sun.svg": "/Sergey-portfolio-react/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/Sergey-portfolio-react/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/telegram.svg": "/Sergey-portfolio-react/static/media/telegram.b4455e1b7453b1156bcdf070b4db2d40.svg",
+    "static/media/gitHub.svg": "/Sergey-portfolio-react/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/Sergey-portfolio-react/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/Sergey-portfolio-react/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/linkedIn.svg": "/Sergey-portfolio-react/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/Sergey-portfolio-react/index.html",
+    "main.e75c538c.css.map": "/Sergey-portfolio-react/static/css/main.e75c538c.css.map",
+    "main.0c3ea060.js.map": "/Sergey-portfolio-react/static/js/main.0c3ea060.js.map",
+    "787.8b11e2ca.chunk.js.map": "/Sergey-portfolio-react/static/js/787.8b11e2ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e75c538c.css",
+    "static/js/main.0c3ea060.js"
+  ]
+}
